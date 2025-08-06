@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Storage.Core", "Storage.Core", "{31DB29CE-1233-4604-90CB-503E100C37E3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Storage.Presentation", "Storage.Presentation", "{B7710695-0257-494D-BAC7-F920066CA91B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Storage.Infrastructure", "Storage.Infrastructure", "{0BA5593B-E95B-4151-8BA5-6D693967CF53}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Storage.Tests", "Storage.Tests", "{3EDD1574-1725-4AA8-B0D5-FD9873939AA4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{CFB6AD28-2AB0-48CD-86DF-3BAD4F6D99EF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage.Core.Domain", "Storage.Core.Domain\Storage.Core.Domain.csproj", "{608A28A1-7F11-46DA-ACBE-D800210584CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage.Infrastructure.Persistence", "Storage.Infrastructure.Persistence\Storage.Infrastructure.Persistence.csproj", "{0AA97A66-3C55-4450-AD45-3FC0BD42D534}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Storage.Core.App", "Storage.Core.App\Storage.Core.App.csproj", "{95A9430B-BFA7-40B5-BCAB-93D06C428632}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{608A28A1-7F11-46DA-ACBE-D800210584CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{608A28A1-7F11-46DA-ACBE-D800210584CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{608A28A1-7F11-46DA-ACBE-D800210584CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{608A28A1-7F11-46DA-ACBE-D800210584CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0AA97A66-3C55-4450-AD45-3FC0BD42D534}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0AA97A66-3C55-4450-AD45-3FC0BD42D534}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0AA97A66-3C55-4450-AD45-3FC0BD42D534}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0AA97A66-3C55-4450-AD45-3FC0BD42D534}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95A9430B-BFA7-40B5-BCAB-93D06C428632}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95A9430B-BFA7-40B5-BCAB-93D06C428632}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95A9430B-BFA7-40B5-BCAB-93D06C428632}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95A9430B-BFA7-40B5-BCAB-93D06C428632}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{31DB29CE-1233-4604-90CB-503E100C37E3} = {CFB6AD28-2AB0-48CD-86DF-3BAD4F6D99EF}
+		{B7710695-0257-494D-BAC7-F920066CA91B} = {CFB6AD28-2AB0-48CD-86DF-3BAD4F6D99EF}
+		{0BA5593B-E95B-4151-8BA5-6D693967CF53} = {CFB6AD28-2AB0-48CD-86DF-3BAD4F6D99EF}
+		{608A28A1-7F11-46DA-ACBE-D800210584CF} = {31DB29CE-1233-4604-90CB-503E100C37E3}
+		{0AA97A66-3C55-4450-AD45-3FC0BD42D534} = {0BA5593B-E95B-4151-8BA5-6D693967CF53}
+		{95A9430B-BFA7-40B5-BCAB-93D06C428632} = {31DB29CE-1233-4604-90CB-503E100C37E3}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A05C7181-F5B4-445F-AD42-E272E301AE56}
+	EndGlobalSection
+EndGlobal
