@@ -10,7 +10,7 @@ namespace Storage.Core.App.Interfaces
 {
     public interface IResourcesDBContext
     {
-        DbSet<Resource> Resources { get; set; }
+        DbSet<Resource> resources { get; set; }
         Task<int> SaveChangesAsync(CancellationToken cancellationToken);
     }
 }

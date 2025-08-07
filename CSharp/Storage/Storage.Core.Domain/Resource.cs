@@ -8,8 +8,8 @@ namespace Storage.Core.Domain
 {
     public class Resource
     {
-        public int id { get; set; }
+        public int resId { get; set; }
         public string name { get; set; }
-        public string isArchive { get; set; }
+        public bool isArchive { get; set; }
     }
 }

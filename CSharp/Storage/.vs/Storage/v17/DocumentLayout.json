@@ -1,14 +1,70 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\GitHub\\solforbTest\\CSharp\\Storage\\",
+  "WorkspaceRootPath": "D:\\Github\\solforbTest\\CSharp\\Storage\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0AA97A66-3C55-4450-AD45-3FC0BD42D534}|Storage.Infrastructure.Persistence\\Storage.Infrastructure.Persistence.csproj|c:\\github\\solforbtest\\csharp\\storage\\storage.infrastructure.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AA97A66-3C55-4450-AD45-3FC0BD42D534}|Storage.Infrastructure.Persistence\\Storage.Infrastructure.Persistence.csproj|solutionrelative:storage.infrastructure.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\queries\\getresource\\getresourcequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\queries\\getresource\\getresourcequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AA97A66-3C55-4450-AD45-3FC0BD42D534}|Storage.Infrastructure.Persistence\\Storage.Infrastructure.Persistence.csproj|c:\\github\\solforbtest\\csharp\\storage\\storage.infrastructure.persistence\\storagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AA97A66-3C55-4450-AD45-3FC0BD42D534}|Storage.Infrastructure.Persistence\\Storage.Infrastructure.Persistence.csproj|solutionrelative:storage.infrastructure.persistence\\storagedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\queries\\getresource\\resourcevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\queries\\getresource\\resourcevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\queries\\getresource\\getresourcequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\queries\\getresource\\getresourcequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\queries\\getallresources\\getallresourcesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\queries\\getallresources\\getallresourcesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\queries\\getallresources\\getallresourcesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\queries\\getallresources\\getallresourcesvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\queries\\getallresources\\getallresourcesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\queries\\getallresources\\getallresourcesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\queries\\getallresources\\getallresourcesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\queries\\getallresources\\getallresourcesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\commands\\updresource\\updresourcecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\commands\\updresource\\updresourcecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\commands\\delresource\\delresourcecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\commands\\delresource\\delresourcecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\commands\\updresource\\updresourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\commands\\updresource\\updresourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\commands\\delresource\\delresourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\commands\\delresource\\delresourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\commands\\createresource\\createresourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\commands\\createresource\\createresourcecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA97A66-3C55-4450-AD45-3FC0BD42D534}|Storage.Infrastructure.Persistence\\Storage.Infrastructure.Persistence.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.infrastructure.persistence\\entitytypeconfigurations\\resourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA97A66-3C55-4450-AD45-3FC0BD42D534}|Storage.Infrastructure.Persistence\\Storage.Infrastructure.Persistence.csproj|solutionrelative:storage.infrastructure.persistence\\entitytypeconfigurations\\resourseconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.app\\entity\\resources\\commands\\createresource\\createresourcecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A9430B-BFA7-40B5-BCAB-93D06C428632}|Storage.Core.App\\Storage.Core.App.csproj|solutionrelative:storage.core.app\\entity\\resources\\commands\\createresource\\createresourcecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{608A28A1-7F11-46DA-ACBE-D800210584CF}|Storage.Core.Domain\\Storage.Core.Domain.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.core.domain\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{608A28A1-7F11-46DA-ACBE-D800210584CF}|Storage.Core.Domain\\Storage.Core.Domain.csproj|solutionrelative:storage.core.domain\\resource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AA97A66-3C55-4450-AD45-3FC0BD42D534}|Storage.Infrastructure.Persistence\\Storage.Infrastructure.Persistence.csproj|d:\\github\\solforbtest\\csharp\\storage\\storage.infrastructure.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AA97A66-3C55-4450-AD45-3FC0BD42D534}|Storage.Infrastructure.Persistence\\Storage.Infrastructure.Persistence.csproj|solutionrelative:storage.infrastructure.persistence\\dbinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +74,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GetAllResourcesQueryHandler.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesQueryHandler.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesQueryHandler.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesQueryHandler.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:21:05.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllResourcesDTO.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesDTO.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesDTO.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesDTO.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:19:50.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GetAllResourcesVM.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesVM.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesVM.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesVM.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:18:58.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetAllResourcesQuery.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesQuery.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesQuery.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesQuery.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Queries\\GetAllResources\\GetAllResourcesQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:14:18.911Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
@@ -34,28 +142,158 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "DbInitializer.cs",
-              "DocumentMoniker": "C:\\GitHub\\solforbTest\\CSharp\\Storage\\Storage.Infrastructure.Persistence\\DbInitializer.cs",
-              "RelativeDocumentMoniker": "Storage.Infrastructure.Persistence\\DbInitializer.cs",
-              "ToolTip": "C:\\GitHub\\solforbTest\\CSharp\\Storage\\Storage.Infrastructure.Persistence\\DbInitializer.cs",
-              "RelativeToolTip": "Storage.Infrastructure.Persistence\\DbInitializer.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 7,
+              "Title": "UpdResourceCommandHandler.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\UpdResource\\UpdResourceCommandHandler.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Commands\\UpdResource\\UpdResourceCommandHandler.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\UpdResource\\UpdResourceCommandHandler.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Commands\\UpdResource\\UpdResourceCommandHandler.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:15:13.493Z",
+              "WhenOpened": "2025-08-07T11:40:09.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetResourceQuery.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\GetResourceQuery.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\GetResourceQuery.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\GetResourceQuery.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\GetResourceQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:05:06.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GetResourceQueryHandler.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\GetResourceQueryHandler.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\GetResourceQueryHandler.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\GetResourceQueryHandler.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\GetResourceQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:07:02.341Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "StorageDBContext.cs",
-              "DocumentMoniker": "C:\\GitHub\\solforbTest\\CSharp\\Storage\\Storage.Infrastructure.Persistence\\StorageDBContext.cs",
-              "RelativeDocumentMoniker": "Storage.Infrastructure.Persistence\\StorageDBContext.cs",
-              "ToolTip": "C:\\GitHub\\solforbTest\\CSharp\\Storage\\Storage.Infrastructure.Persistence\\StorageDBContext.cs",
-              "RelativeToolTip": "Storage.Infrastructure.Persistence\\StorageDBContext.cs",
+              "Title": "ResourceVm.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\ResourceVm.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\ResourceVm.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\ResourceVm.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Queries\\GetResource\\ResourceVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T12:05:50.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DelResourceCommandHandler.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\DelResource\\DelResourceCommandHandler.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Commands\\DelResource\\DelResourceCommandHandler.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\DelResource\\DelResourceCommandHandler.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Commands\\DelResource\\DelResourceCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:58:09.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DelResourceCommand.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\DelResource\\DelResourceCommand.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Commands\\DelResource\\DelResourceCommand.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\DelResource\\DelResourceCommand.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Commands\\DelResource\\DelResourceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:34:29.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateResourceCommand.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\CreateResource\\CreateResourceCommand.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Commands\\CreateResource\\CreateResourceCommand.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\CreateResource\\CreateResourceCommand.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Commands\\CreateResource\\CreateResourceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:02:57.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UpdResourceCommand.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\UpdResource\\UpdResourceCommand.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Commands\\UpdResource\\UpdResourceCommand.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\UpdResource\\UpdResourceCommand.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Commands\\UpdResource\\UpdResourceCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:39:14.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ResourseConfiguration.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Infrastructure.Persistence\\EntityTypeConfigurations\\ResourseConfiguration.cs",
+              "RelativeDocumentMoniker": "Storage.Infrastructure.Persistence\\EntityTypeConfigurations\\ResourseConfiguration.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Infrastructure.Persistence\\EntityTypeConfigurations\\ResourseConfiguration.cs",
+              "RelativeToolTip": "Storage.Infrastructure.Persistence\\EntityTypeConfigurations\\ResourseConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:23:20.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DbInitializer.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Infrastructure.Persistence\\DbInitializer.cs",
+              "RelativeDocumentMoniker": "Storage.Infrastructure.Persistence\\DbInitializer.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Infrastructure.Persistence\\DbInitializer.cs",
+              "RelativeToolTip": "Storage.Infrastructure.Persistence\\DbInitializer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-05T12:15:11.392Z",
+              "WhenOpened": "2025-08-07T11:22:47.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CreateResourceCommandHandler.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\CreateResource\\CreateResourceCommandHandler.cs",
+              "RelativeDocumentMoniker": "Storage.Core.App\\Entity\\Resources\\Commands\\CreateResource\\CreateResourceCommandHandler.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.App\\Entity\\Resources\\Commands\\CreateResource\\CreateResourceCommandHandler.cs",
+              "RelativeToolTip": "Storage.Core.App\\Entity\\Resources\\Commands\\CreateResource\\CreateResourceCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:14:02.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Resource.cs",
+              "DocumentMoniker": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.Domain\\Resource.cs",
+              "RelativeDocumentMoniker": "Storage.Core.Domain\\Resource.cs",
+              "ToolTip": "D:\\Github\\solforbTest\\CSharp\\Storage\\Storage.Core.Domain\\Resource.cs",
+              "RelativeToolTip": "Storage.Core.Domain\\Resource.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-07T11:09:27.611Z",
               "EditorCaption": ""
             }
           ]

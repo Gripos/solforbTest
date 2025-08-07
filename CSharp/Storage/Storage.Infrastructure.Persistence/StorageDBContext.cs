@@ -12,7 +12,7 @@ namespace Storage.Infrastructure.Persistence
 {
     public class StorageDBContext: DbContext, IResourcesDBContext
     {
-        public DbSet<Resource> Resources { get; set; }
+        public DbSet<Resource> resources { get; set; }
 
         public StorageDBContext(DbContextOptions<StorageDBContext> options) : base(options) { }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
